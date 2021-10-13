@@ -1,0 +1,23 @@
+body h1 {
+color: brown;
+}
+
+.style-em {
+  font-size: 20px;
+} 
+
+body li {
+  font-weight: bold;
+  }
+
+body em {
+  color: rgb(21, 196, 181);
+  }
+  
+ a:hover {
+   color: red;
+ }       
+ 
+ a:visited {
+   color: grey;
+ }

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+.card {
+  max-width: 350px;
+  margin: auto;
+  font: normal 16px 'Questrial', sans-serif;
+  border: rgb(202, 202, 202) solid 1px;
+  border-radius: 6px;
+}
+
+.card-img-top {
+  max-width: 350px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.card-body {
+  padding: 0px 30px 20px 20px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  background: #e45d80;
+  border-radius: 3px;
+  font-family: inherit;
+}
+
+.btn {
+  display: block;
+  width: 150px;
+  text-align: center;
+  padding: 5px;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+a:active {
+  color: rgb(0, 0, 0);
+}
+
